@@ -2,8 +2,10 @@
 
 ### VirtualBox SDK Reference
 
-Taken from the chapter 'Using Java API':
----
+The full SDK Reference is [available here](http://download.virtualbox.org/virtualbox/SDKRef.pdf).
+
+From the chapter 'Using Java API':
+
 #### Introduction
 VirtualBox can be controlled by a Java API, both locally (COM / XPCOM) and from remote (SOAP) clients. 
 As with the Python bindings, a generic glue layer tries to hide all platform differences, allowing for source and 
