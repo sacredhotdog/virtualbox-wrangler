@@ -1,3 +1,11 @@
+### TODO
+The `.jar` files mentioned as being included with the SDK are not all present. Specifically, it seems that the 
+`vboxjmscom.jar` needed for the COM / Windows approach mentioned below is missing.
+
+Initial searches suggest that this will need to be built from source, which may or may not be available here: 
+[https://www.virtualbox.org/browser/](https://www.virtualbox.org/browser/).
+
+Dull, to say the least. 
 
 
 ### VirtualBox SDK Reference
